@@ -1,9 +1,21 @@
 # node.js
 
-1°Passo: Copie o código do outro arquivo que eu postei nesse repositório 
-2°Passo: Abra o terminal e ative o nodejs-env(source ./nodejs-env/bin/activate)
-3°Passo: Crie um arquivo de texto para edita-lo js(sudo nano index.js) 
-4°Passo: Dentro desse arquivo cole o código que você copiou do repositório
-5°Passo: Modifique a linha 10, troque o NOME que está dentro do parênteses('<style="font-size: 24px;"> Caio Felipe Vieira Ferreira') pelo texto que você escolher(não esqueça de deixar dentro das aspas (','));
-6°Passo: Salve o arquivo (Ctrl O + ENTER + Ctrl X)
-7°Passo: Abra seu navegador e digite "localhost:8001", o "8001" é a minha porta de preferência, você pode modifica-la na linha 11 do arquivo.
+1°Passo: Copie o código que está nesse repositório (index.js)
+
+2°Passo: Abra o terminal e entre na pasta em que está localizado o seu nodejs
+(cd ~/pasta)
+
+ 
+3°Passo: ative o nodejs-env(source ./nodejs-env/bin/activate)
+
+
+4°Passo: Crie um arquivo de texto para edita-lo js(sudo nano index.js) 
+
+
+5°Passo: Cole o código dentro do arquivo e salve
+
+
+6°Passo: digite no terminal (node index.js) para habilitar a página
+
+
+7°Passo: Abra seu navegador e digite "localhost:porta", o "8001" é a minha porta de preferência, você pode modifica-la na linha 11 do arquivo.
